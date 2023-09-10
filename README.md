@@ -1,8 +1,8 @@
-### Oiá!!! Eu sou Franci Miller
+### Olá!!! Eu sou Franci Miller
 
 - Estudando programação...          
 - Data ciencie      
--  Um dia sem estudar é um dia a mais entre você e seu objetivo
+- Um dia sem estudar é um dia a mais entre você e seu objetivo
 
 
 <div style="display: inline_block"><br>
